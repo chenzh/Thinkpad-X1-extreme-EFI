@@ -1,3 +1,18 @@
+
+# 我的配置 !!
+
+- 完美驱动Macos系统版本：macOS Catalina 10.15.3 （一定要用这个版本，否则会出现不经意的卡顿）
+- 机型：Thinkpad隐士X1
+- CPU：2.2 GHz 六核Intel Core i7
+- 内存：40 GB 2667 MHz DDR4
+- 硬盘：原装500g硬盘，三星981序列。不支持安装黑苹果
+- 自加装硬盘：三星980 1t硬盘，拆了两个分区，用来装黑苹果。
+- 显卡：Intel UHD Graphics 630 (Mobile) 2048 MB 驱动的主板的集成显示。（尝试驱动过独显，最终发现笔记本的独显目前没有完美的驱动的方案
+- 对应EFI：Release/Thinkpad-X1E-GEN1-OpenCore-v1.0.5.7z
+
+# 使用说明
+http://app.myzaker.com/news/article.php?pk=615731088e9f09719328f53a&f=normal
+
 # Notice !!!
 
 The maintenance of clover version EFI is discontinued, and the future will focus on OpenCore EFI.
